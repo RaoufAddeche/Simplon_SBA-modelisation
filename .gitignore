@@ -235,3 +235,5 @@ pyrightconfig.json
 
 #csv files
 *.csv
+
+catboost_info/
