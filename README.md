@@ -138,8 +138,8 @@ Model performance will be evaluated based on multiple criteria:
 ---
 
 ## Authors
-
-👩‍💻 **Khadija Aassi**  
+**Raouf Addeche**
+👩‍💻 **Khadija Aassi**
 👩‍💻 **Ludivine Raby**  
 <a href="https://github.com/YourGitHubProfile" target="_blank">
     <img loading="lazy" src="images/github-mark.png" width="30" height="30" style="vertical-align: middle; float: middle; margin-left: 30px;" alt="GitHub Logo">
