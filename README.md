@@ -48,7 +48,7 @@ Follow these steps to execute the project:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/username/project_name.git
+git clone git@github.com:RaoufAddeche/Simplon_SBA-modelisation.git
 cd project_name
 ```
 
