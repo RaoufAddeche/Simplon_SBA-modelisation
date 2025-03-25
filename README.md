@@ -49,7 +49,7 @@ Follow these steps to execute the project:
 
 ```bash
 git clone git@github.com:RaoufAddeche/Simplon_SBA-modelisation.git
-cd project_name
+cd Simplon_SBA-modelisation
 ```
 
 2. **Install dependencies**:
